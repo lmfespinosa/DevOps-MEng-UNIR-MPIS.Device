@@ -1,0 +1,12 @@
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.DomainModel\bin\Debug\netcoreapp3.1\MPIS.Device.DomainModel.deps.json
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.DomainModel\bin\Debug\netcoreapp3.1\MPIS.Device.DomainModel.dll
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.DomainModel\bin\Debug\netcoreapp3.1\MPIS.Device.DomainModel.pdb
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.DomainModel\bin\Debug\netcoreapp3.1\MPIS.Package.Base.dll
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.DomainModel\bin\Debug\netcoreapp3.1\MPIS.Package.Base.pdb
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.DomainModel\obj\Debug\netcoreapp3.1\MPIS.Device.DomainModel.csprojAssemblyReference.cache
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.DomainModel\obj\Debug\netcoreapp3.1\MPIS.Device.DomainModel.csproj.CoreCompileInputs.cache
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.DomainModel\obj\Debug\netcoreapp3.1\MPIS.Device.DomainModel.AssemblyInfoInputs.cache
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.DomainModel\obj\Debug\netcoreapp3.1\MPIS.Device.DomainModel.AssemblyInfo.cs
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.DomainModel\obj\Debug\netcoreapp3.1\MPIS.Device.DomainModel.csproj.CopyComplete
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.DomainModel\obj\Debug\netcoreapp3.1\MPIS.Device.DomainModel.dll
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.DomainModel\obj\Debug\netcoreapp3.1\MPIS.Device.DomainModel.pdb

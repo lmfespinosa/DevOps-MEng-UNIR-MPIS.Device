@@ -1,0 +1,32 @@
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.AutoMapper\bin\Debug\netcoreapp2.2\MPIS.Device.AutoMapper.deps.json
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.AutoMapper\bin\Debug\netcoreapp2.2\MPIS.Device.AutoMapper.dll
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.AutoMapper\bin\Debug\netcoreapp2.2\MPIS.Device.AutoMapper.pdb
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.AutoMapper\bin\Debug\netcoreapp2.2\MPIS.Device.AplicationService.DTOs.dll
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.AutoMapper\bin\Debug\netcoreapp2.2\MPIS.Device.DomainModel.dll
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.AutoMapper\bin\Debug\netcoreapp2.2\MPIS.Package.Base.dll
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.AutoMapper\bin\Debug\netcoreapp2.2\MPIS.Device.DomainModel.pdb
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.AutoMapper\bin\Debug\netcoreapp2.2\MPIS.Device.AplicationService.DTOs.pdb
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.AutoMapper\bin\Debug\netcoreapp2.2\MPIS.Package.Base.pdb
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.AutoMapper\obj\Debug\netcoreapp2.2\MPIS.Device.AutoMapper.csprojAssemblyReference.cache
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.AutoMapper\obj\Debug\netcoreapp2.2\MPIS.Device.AutoMapper.csproj.CoreCompileInputs.cache
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.AutoMapper\obj\Debug\netcoreapp2.2\MPIS.Device.AutoMapper.AssemblyInfoInputs.cache
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.AutoMapper\obj\Debug\netcoreapp2.2\MPIS.Device.AutoMapper.AssemblyInfo.cs
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.AutoMapper\obj\Debug\netcoreapp2.2\MPIS.Device.AutoMapper.csproj.CopyComplete
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.AutoMapper\obj\Debug\netcoreapp2.2\MPIS.Device.AutoMapper.dll
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.AutoMapper\obj\Debug\netcoreapp2.2\MPIS.Device.AutoMapper.pdb
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.Device.AutoMapper\bin\Debug\netcoreapp2.2\MPIS.Device.AutoMapper.deps.json
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.Device.AutoMapper\bin\Debug\netcoreapp2.2\MPIS.Device.AutoMapper.dll
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.Device.AutoMapper\bin\Debug\netcoreapp2.2\MPIS.Device.AutoMapper.pdb
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.Device.AutoMapper\bin\Debug\netcoreapp2.2\MPIS.Device.AplicationService.DTOs.dll
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.Device.AutoMapper\bin\Debug\netcoreapp2.2\MPIS.Device.DomainModel.dll
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.Device.AutoMapper\bin\Debug\netcoreapp2.2\MPIS.Package.Base.dll
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.Device.AutoMapper\bin\Debug\netcoreapp2.2\MPIS.Device.DomainModel.pdb
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.Device.AutoMapper\bin\Debug\netcoreapp2.2\MPIS.Device.AplicationService.DTOs.pdb
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.Device.AutoMapper\bin\Debug\netcoreapp2.2\MPIS.Package.Base.pdb
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.Device.AutoMapper\obj\Debug\netcoreapp2.2\MPIS.Device.AutoMapper.csprojAssemblyReference.cache
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.Device.AutoMapper\obj\Debug\netcoreapp2.2\MPIS.Device.AutoMapper.csproj.CoreCompileInputs.cache
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.Device.AutoMapper\obj\Debug\netcoreapp2.2\MPIS.Device.AutoMapper.AssemblyInfoInputs.cache
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.Device.AutoMapper\obj\Debug\netcoreapp2.2\MPIS.Device.AutoMapper.AssemblyInfo.cs
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.Device.AutoMapper\obj\Debug\netcoreapp2.2\MPIS.Device.AutoMapper.csproj.CopyComplete
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.Device.AutoMapper\obj\Debug\netcoreapp2.2\MPIS.Device.AutoMapper.dll
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.Device.AutoMapper\obj\Debug\netcoreapp2.2\MPIS.Device.AutoMapper.pdb

@@ -1,0 +1,28 @@
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.FluentValidation\bin\Debug\netcoreapp2.2\MPIS.Device.FluentValidation.deps.json
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.FluentValidation\bin\Debug\netcoreapp2.2\MPIS.Device.FluentValidation.dll
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.FluentValidation\obj\Debug\netcoreapp2.2\MPIS.Device.FluentValidation.AssemblyInfoInputs.cache
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.FluentValidation\obj\Debug\netcoreapp2.2\MPIS.Device.FluentValidation.AssemblyInfo.cs
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.FluentValidation\bin\Debug\netcoreapp2.2\MPIS.Package.HttpMapper.dll
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.FluentValidation\bin\Debug\netcoreapp2.2\MPIS.Package.HttpMapper.pdb
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.FluentValidation\obj\Debug\netcoreapp2.2\MPIS.Device.FluentValidation.csprojAssemblyReference.cache
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.FluentValidation\obj\Debug\netcoreapp2.2\MPIS.Device.FluentValidation.csproj.CopyComplete
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.FluentValidation\bin\Debug\netcoreapp2.2\MPIS.Device.FluentValidation.pdb
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.FluentValidation\obj\Debug\netcoreapp2.2\MPIS.Device.FluentValidation.csproj.CoreCompileInputs.cache
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.FluentValidation\obj\Debug\netcoreapp2.2\MPIS.Device.FluentValidation.dll
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.FluentValidation\obj\Debug\netcoreapp2.2\MPIS.Device.FluentValidation.pdb
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.FluentValidation\bin\Debug\netcoreapp2.2\MPIS.Device.AplicationService.DTOs.dll
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.FluentValidation\bin\Debug\netcoreapp2.2\MPIS.Device.AplicationService.DTOs.pdb
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.Device.FluentValidation\bin\Debug\netcoreapp2.2\MPIS.Device.FluentValidation.deps.json
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.Device.FluentValidation\bin\Debug\netcoreapp2.2\MPIS.Device.FluentValidation.dll
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.Device.FluentValidation\bin\Debug\netcoreapp2.2\MPIS.Device.FluentValidation.pdb
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.Device.FluentValidation\bin\Debug\netcoreapp2.2\MPIS.Device.AplicationService.DTOs.dll
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.Device.FluentValidation\bin\Debug\netcoreapp2.2\MPIS.Package.HttpMapper.dll
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.Device.FluentValidation\bin\Debug\netcoreapp2.2\MPIS.Package.HttpMapper.pdb
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.Device.FluentValidation\bin\Debug\netcoreapp2.2\MPIS.Device.AplicationService.DTOs.pdb
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.Device.FluentValidation\obj\Debug\netcoreapp2.2\MPIS.Device.FluentValidation.csprojAssemblyReference.cache
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.Device.FluentValidation\obj\Debug\netcoreapp2.2\MPIS.Device.FluentValidation.csproj.CoreCompileInputs.cache
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.Device.FluentValidation\obj\Debug\netcoreapp2.2\MPIS.Device.FluentValidation.AssemblyInfoInputs.cache
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.Device.FluentValidation\obj\Debug\netcoreapp2.2\MPIS.Device.FluentValidation.AssemblyInfo.cs
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.Device.FluentValidation\obj\Debug\netcoreapp2.2\MPIS.Device.FluentValidation.csproj.CopyComplete
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.Device.FluentValidation\obj\Debug\netcoreapp2.2\MPIS.Device.FluentValidation.dll
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.Device.FluentValidation\obj\Debug\netcoreapp2.2\MPIS.Device.FluentValidation.pdb

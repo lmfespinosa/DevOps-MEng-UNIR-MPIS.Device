@@ -1,0 +1,17 @@
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.RepositoryModel\bin\Debug\netcoreapp3.1\MPIS.Device.RepositoryModel.deps.json
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.RepositoryModel\bin\Debug\netcoreapp3.1\MPIS.Device.RepositoryModel.runtimeconfig.json
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.RepositoryModel\bin\Debug\netcoreapp3.1\MPIS.Device.RepositoryModel.runtimeconfig.dev.json
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.RepositoryModel\bin\Debug\netcoreapp3.1\MPIS.Device.RepositoryModel.dll
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.RepositoryModel\bin\Debug\netcoreapp3.1\MPIS.Device.RepositoryModel.pdb
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.RepositoryModel\bin\Debug\netcoreapp3.1\MPIS.Device.DomainModel.dll
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.RepositoryModel\bin\Debug\netcoreapp3.1\MPIS.Package.Base.dll
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.RepositoryModel\bin\Debug\netcoreapp3.1\MPIS.Device.DomainModel.pdb
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.RepositoryModel\bin\Debug\netcoreapp3.1\MPIS.Package.Base.pdb
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.RepositoryModel\obj\Debug\netcoreapp3.1\MPIS.Device.RepositoryModel.csprojAssemblyReference.cache
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.RepositoryModel\obj\Debug\netcoreapp3.1\MPIS.Device.RepositoryModel.csproj.CoreCompileInputs.cache
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.RepositoryModel\obj\Debug\netcoreapp3.1\MPIS.Device.RepositoryModel.AssemblyInfoInputs.cache
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.RepositoryModel\obj\Debug\netcoreapp3.1\MPIS.Device.RepositoryModel.AssemblyInfo.cs
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.RepositoryModel\obj\Debug\netcoreapp3.1\MPIS.Device.RepositoryModel.csproj.CopyComplete
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.RepositoryModel\obj\Debug\netcoreapp3.1\MPIS.Device.RepositoryModel.dll
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.RepositoryModel\obj\Debug\netcoreapp3.1\MPIS.Device.RepositoryModel.pdb
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.RepositoryModel\obj\Debug\netcoreapp3.1\MPIS.Device.RepositoryModel.genruntimeconfig.cache

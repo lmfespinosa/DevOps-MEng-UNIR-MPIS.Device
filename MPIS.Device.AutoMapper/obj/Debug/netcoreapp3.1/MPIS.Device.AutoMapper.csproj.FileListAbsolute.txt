@@ -1,0 +1,4 @@
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.AutoMapper\bin\Debug\netcoreapp3.1\MPIS.Device.AutoMapper.deps.json
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.AutoMapper\bin\Debug\netcoreapp3.1\MPIS.Device.AutoMapper.dll
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.AutoMapper\obj\Debug\netcoreapp3.1\MPIS.Device.AutoMapper.AssemblyInfoInputs.cache
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.AutoMapper\obj\Debug\netcoreapp3.1\MPIS.Device.AutoMapper.AssemblyInfo.cs

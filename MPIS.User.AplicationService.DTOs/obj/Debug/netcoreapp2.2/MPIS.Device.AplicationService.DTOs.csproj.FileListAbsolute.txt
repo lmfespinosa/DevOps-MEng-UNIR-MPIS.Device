@@ -1,0 +1,16 @@
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.User.AplicationService.DTOs\bin\Debug\netcoreapp2.2\MPIS.Device.AplicationService.DTOs.deps.json
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.User.AplicationService.DTOs\bin\Debug\netcoreapp2.2\MPIS.Device.AplicationService.DTOs.dll
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.User.AplicationService.DTOs\bin\Debug\netcoreapp2.2\MPIS.Device.AplicationService.DTOs.pdb
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.User.AplicationService.DTOs\obj\Debug\netcoreapp2.2\MPIS.Device.AplicationService.DTOs.csproj.CoreCompileInputs.cache
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.User.AplicationService.DTOs\obj\Debug\netcoreapp2.2\MPIS.Device.AplicationService.DTOs.AssemblyInfoInputs.cache
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.User.AplicationService.DTOs\obj\Debug\netcoreapp2.2\MPIS.Device.AplicationService.DTOs.AssemblyInfo.cs
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.User.AplicationService.DTOs\obj\Debug\netcoreapp2.2\MPIS.Device.AplicationService.DTOs.dll
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.User.AplicationService.DTOs\obj\Debug\netcoreapp2.2\MPIS.Device.AplicationService.DTOs.pdb
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.User.AplicationService.DTOs\bin\Debug\netcoreapp2.2\MPIS.Device.AplicationService.DTOs.deps.json
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.User.AplicationService.DTOs\bin\Debug\netcoreapp2.2\MPIS.Device.AplicationService.DTOs.dll
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.User.AplicationService.DTOs\bin\Debug\netcoreapp2.2\MPIS.Device.AplicationService.DTOs.pdb
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.User.AplicationService.DTOs\obj\Debug\netcoreapp2.2\MPIS.Device.AplicationService.DTOs.csproj.CoreCompileInputs.cache
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.User.AplicationService.DTOs\obj\Debug\netcoreapp2.2\MPIS.Device.AplicationService.DTOs.AssemblyInfoInputs.cache
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.User.AplicationService.DTOs\obj\Debug\netcoreapp2.2\MPIS.Device.AplicationService.DTOs.AssemblyInfo.cs
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.User.AplicationService.DTOs\obj\Debug\netcoreapp2.2\MPIS.Device.AplicationService.DTOs.dll
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.User.AplicationService.DTOs\obj\Debug\netcoreapp2.2\MPIS.Device.AplicationService.DTOs.pdb

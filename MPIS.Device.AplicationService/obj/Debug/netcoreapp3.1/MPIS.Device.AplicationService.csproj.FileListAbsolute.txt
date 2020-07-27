@@ -1,0 +1,9 @@
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.AplicationService\bin\Debug\netcoreapp3.1\MPIS.Device.AplicationService.deps.json
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.AplicationService\bin\Debug\netcoreapp3.1\MPIS.Device.AplicationService.dll
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.AplicationService\bin\Debug\netcoreapp3.1\MPIS.Device.AplicationService.pdb
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.AplicationService\obj\Debug\netcoreapp3.1\MPIS.Device.AplicationService.csprojAssemblyReference.cache
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.AplicationService\obj\Debug\netcoreapp3.1\MPIS.Device.AplicationService.csproj.CoreCompileInputs.cache
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.AplicationService\obj\Debug\netcoreapp3.1\MPIS.Device.AplicationService.AssemblyInfoInputs.cache
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.AplicationService\obj\Debug\netcoreapp3.1\MPIS.Device.AplicationService.AssemblyInfo.cs
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.AplicationService\obj\Debug\netcoreapp3.1\MPIS.Device.AplicationService.dll
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.AplicationService\obj\Debug\netcoreapp3.1\MPIS.Device.AplicationService.pdb

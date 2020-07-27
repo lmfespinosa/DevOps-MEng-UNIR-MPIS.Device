@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="9.0.0" />
+    <PackageReference Include="FluentValidation" Version="8.6.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="2.2.6" />
+    <PackageReference Include="Moq" Version="4.14.4" />
+    <PackageReference Include="nunit" Version="3.12.0" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.15.1" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MPIS.Device.AplicationService\MPIS.Device.AplicationService.csproj" />
+    <ProjectReference Include="..\MPIS.Device.AutoMapper\MPIS.Device.AutoMapper.csproj" />
+    <ProjectReference Include="..\MPIS.Device.Function.Models.Tests\MPIS.Device.Function.Models.Tests.csproj" />
+    <ProjectReference Include="..\MPIS.Device.Function\MPIS.Device.Function.csproj" />
+    <ProjectReference Include="..\MPIS.Device.RepositoryModel\MPIS.Device.RepositoryModel.csproj" />
+    <ProjectReference Include="..\MPIS.Device.Repository\MPIS.Device.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

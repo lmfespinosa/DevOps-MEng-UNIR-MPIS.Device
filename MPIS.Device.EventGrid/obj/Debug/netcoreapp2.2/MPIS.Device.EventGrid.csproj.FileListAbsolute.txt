@@ -1,0 +1,24 @@
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.EventGrid\bin\Debug\netcoreapp2.2\MPIS.Device.EventGrid.deps.json
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.EventGrid\bin\Debug\netcoreapp2.2\MPIS.Device.EventGrid.dll
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.EventGrid\bin\Debug\netcoreapp2.2\MPIS.Device.EventGrid.pdb
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.EventGrid\bin\Debug\netcoreapp2.2\MPIS.Package.EventPublisher.AzureEventGrid.dll
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.EventGrid\bin\Debug\netcoreapp2.2\MPIS.Package.EventPublisher.AzureEventGrid.pdb
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.EventGrid\obj\Debug\netcoreapp2.2\MPIS.Device.EventGrid.csprojAssemblyReference.cache
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.EventGrid\obj\Debug\netcoreapp2.2\MPIS.Device.EventGrid.csproj.CoreCompileInputs.cache
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.EventGrid\obj\Debug\netcoreapp2.2\MPIS.Device.EventGrid.AssemblyInfoInputs.cache
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.EventGrid\obj\Debug\netcoreapp2.2\MPIS.Device.EventGrid.AssemblyInfo.cs
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.EventGrid\obj\Debug\netcoreapp2.2\MPIS.Device.EventGrid.csproj.CopyComplete
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.EventGrid\obj\Debug\netcoreapp2.2\MPIS.Device.EventGrid.dll
+C:\Master DevOps\TFM\Codigo\DeviceService\MPIS.Device\MPIS.Device.EventGrid\obj\Debug\netcoreapp2.2\MPIS.Device.EventGrid.pdb
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.Device.EventGrid\bin\Debug\netcoreapp2.2\MPIS.Device.EventGrid.deps.json
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.Device.EventGrid\bin\Debug\netcoreapp2.2\MPIS.Device.EventGrid.dll
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.Device.EventGrid\bin\Debug\netcoreapp2.2\MPIS.Device.EventGrid.pdb
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.Device.EventGrid\bin\Debug\netcoreapp2.2\MPIS.Package.EventPublisher.AzureEventGrid.dll
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.Device.EventGrid\bin\Debug\netcoreapp2.2\MPIS.Package.EventPublisher.AzureEventGrid.pdb
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.Device.EventGrid\obj\Debug\netcoreapp2.2\MPIS.Device.EventGrid.csprojAssemblyReference.cache
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.Device.EventGrid\obj\Debug\netcoreapp2.2\MPIS.Device.EventGrid.csproj.CoreCompileInputs.cache
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.Device.EventGrid\obj\Debug\netcoreapp2.2\MPIS.Device.EventGrid.AssemblyInfoInputs.cache
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.Device.EventGrid\obj\Debug\netcoreapp2.2\MPIS.Device.EventGrid.AssemblyInfo.cs
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.Device.EventGrid\obj\Debug\netcoreapp2.2\MPIS.Device.EventGrid.csproj.CopyComplete
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.Device.EventGrid\obj\Debug\netcoreapp2.2\MPIS.Device.EventGrid.dll
+C:\Master DevOps\TFM\Codigo\3 - DeviceService\MPIS.Device\MPIS.Device.EventGrid\obj\Debug\netcoreapp2.2\MPIS.Device.EventGrid.pdb
