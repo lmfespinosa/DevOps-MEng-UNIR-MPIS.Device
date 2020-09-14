@@ -95,7 +95,7 @@ stages:
 #      displayName: 'Integrations test'
 #      inputs:
 #        command: test
-#        projects: '$(System.DefaultWorkingDirectory)/MPIS.Device.Functions.Integration.Tests/*.csproj'
+#        projects: '$(System.DefaultWorkingDirectory)/MPIS.Device.Function.Integration.Tests/*.csproj'
 #        arguments: '--configuration Release'
 
     - task: DotNetCoreCLI@2
