@@ -41,6 +41,15 @@ stages:
         vstsFeed: $(FEED)
         projects: '$(System.DefaultWorkingDirectory)/MPIS.Device.Function/*.csproj'
 
+    - task: qetza.replacetokens.replacetokens-task.replacetokens@3
+      displayName: 'Replace tokens in event-subscriptions.json'
+      inputs:
+        rootDirectory: '$(System.DefaultWorkingDirectory)/MPIS.Device.Function.Integration.Tests'
+        targetFiles: 'local.integration.settings.json'
+        verbosity: detailed
+        tokenPrefix: '__'
+        tokenSuffix: '__'
+
     - task: DotNetCoreCLI@2
       displayName: 'Build'
       inputs:
@@ -82,12 +91,12 @@ stages:
         package: '$(Build.ArtifactStagingDirectory)/$(Build.BuildId).zip'
         AppSettings: '-AzureSQLConnectionString "$(SQL_SERVER_DATABASE_TEST_DEVICE_CONNECTION_STRING_DEV)" -AzureEventGridClient.TopicKey $(EVENT_GRID_TEST_DEVICE_TOPIC_PRIMARY_KEY_DEV) -EventGridTopicEventPublisher.CheckEventValidity true -EventGridTopicEventPublisher.SubjectBasePath MPIS/Device -EventGridTopicEventPublisher.ThrowExceptions true -EventGridTopicEventPublisher.TopicEndPoint $(EVENT_GRID_TEST_DEVICE_TOPIC_ENDPOINT_DEV)'
 
-  #  - task: DotNetCoreCLI@2
-  #    displayName: 'Integrations test'
-  #    inputs:
-  #      command: test
-  #      projects: '$(System.DefaultWorkingDirectory)/MPIS.Device.Functions.Integration.Tests/*.csproj'
-  #      arguments: '--configuration Release'
+    - task: DotNetCoreCLI@2
+      displayName: 'Integrations test'
+      inputs:
+        command: test
+        projects: '$(System.DefaultWorkingDirectory)/MPIS.Device.Functions.Integration.Tests/*.csproj'
+        arguments: '--configuration Release'
 
     - task: AzureFunctionApp@1
       displayName: 'Deployment environment'
