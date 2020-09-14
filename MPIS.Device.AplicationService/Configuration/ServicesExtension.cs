@@ -12,11 +12,11 @@ namespace MPIS.Device.AplicationService.Configuration
     {
         public static void AddDeviceServices(this IFunctionsHostBuilder builder)
         {
-            builder.Services.AddTransient<IUserService, UserService>();
-            builder.Services.AddTransient<IDeviceService, DeviceService>();
-            builder.Services.AddTransient<IHardwareService, HardwareService>();
-            builder.Services.AddTransient<ISoftwareService, SoftwareService>();
-            builder.Services.AddTransient<IOperativeSystemService, OperativeSystemService>();
+            builder.Services.AddScoped<IUserService, UserService>();
+            builder.Services.AddScoped<IDeviceService, DeviceService>();
+            builder.Services.AddScoped<IHardwareService, HardwareService>();
+            builder.Services.AddScoped<ISoftwareService, SoftwareService>();
+            builder.Services.AddScoped<IOperativeSystemService, OperativeSystemService>();
         }
     }
 }
